@@ -1,2 +1,3 @@
-# fast-food
-طراحی سایت فست فود با امکان سفارش غذا با استفاده از html و cssو javascript
+# website-fast-food
+
+DEMO : https://sara-alizadeh-developer.github.io/website-fast-food
